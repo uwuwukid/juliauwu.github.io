@@ -9,7 +9,7 @@ Owned by Juliana Lyenne Gaite (Julia)
 TOMORROW X TOGETHER debuted in 2019 and they’re already racking up an impressive discography! Here’s a complete guide to all of TXT’s songs.
 
 ### 1. THE DREAM CHAPTER: STAR 
-![alt text](https://ibighit.com/txt/images/txt/discography/the_dream_chapter-star/album-cover.jpg)
+![alt text](https://ibighit.com/txt/images/txt/discography/the_dream_chapter-star/album-cover.jpg)[link](https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz?si=zMD4ZMFpSz2NPTFwKrs9IA)
 
 Consisting of five tracks
 
@@ -24,15 +24,8 @@ Consisting of five tracks
 [Nap of a Star](https://open.spotify.com/track/3Rn10yxcNeVzm5OXug2Kwf?si=cd301088c6944aeb)
 
 
-[Link](url) and ![Image](src)
-```
+### 2. THE DREAM CHAPTER: MAGIC
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![alt text](https://ibighit.com/txt/images/txt/discography/the_dream_chapter-magic/album-cover.jpg)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uwuwukid/juliauwu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
