@@ -1,27 +1,20 @@
 
-## Welcome to Julia's Chill Space
+## Tomorrow by Together discography
 Owned by Juliana Lyenne Gaite (Julia)
 
-![alt text](https://dbkpop.com/wp-content/uploads/2021/05/txt_chaos_chapter_freeze_teaser_concept_Boy_all_group-2000x1326.jpg)
+![alt text](https://i.pinimg.com/originals/71/11/fd/7111fdb49499ab6486d8be7f79d4cafc.gif)
 
-### Markdown
+### Tomorrow by Together
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TOMORROW X TOGETHER debuted in 2019 and they’re already racking up an impressive discography! Here’s a complete guide to all of TXT’s songs.
 
-```markdown
-Syntax highlighted code block
+### 1. THE DREAM CHAPTER: STAR 
+![alt text](https://ibighit.com/txt/images/txt/discography/the_dream_chapter-star/album-cover.jpg)
+Consisting of five tracks
+[Blue Orangeade](https://open.spotify.com/track/3HHFOztnhfIWxjOr2s06sw?si=5d26fa0e3f4d4b51)
+[Crown](https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg?si=2b211df5b9594b81)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
