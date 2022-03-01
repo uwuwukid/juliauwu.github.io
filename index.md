@@ -1,6 +1,5 @@
-## uwuwu.github.io
 
-### Welcome to Julia's Chill Space
+## Welcome to Julia's Chill Space
 Owned by Juliana Lyenne Gaite (Julia)
 
 ![alt text](https://dbkpop.com/wp-content/uploads/2021/05/txt_chaos_chapter_freeze_teaser_concept_Boy_all_group-2000x1326.jpg)
