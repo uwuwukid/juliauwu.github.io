@@ -79,7 +79,7 @@ TOMORROW X TOGETHER debuted in 2019 and they’re already racking up an impressi
 
 [Anti-Romantic](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA?si=4516abf81c5e4e35)
 
-[**0X1=LOVESONG (I Know I Love You) feat. Seori*](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf?si=4dffb10c71b941c5) 
+[**0X1=LOVESONG (I Know I Love You) feat. Seori**](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf?si=4dffb10c71b941c5) 
 
 [Magic](https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS?si=24671789a2b7461b)
 
@@ -101,7 +101,7 @@ TOMORROW X TOGETHER debuted in 2019 and they’re already racking up an impressi
 
 [Anti-Romantic](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA?si=4516abf81c5e4e35)
 
-[**0X1=LOVESONG (I Know I Love You) feat. Seori*](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf?si=4dffb10c71b941c5) 
+[0X1=LOVESONG (I Know I Love You) feat. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf?si=4dffb10c71b941c5) 
 
 [Magic](https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS?si=24671789a2b7461b)
 
