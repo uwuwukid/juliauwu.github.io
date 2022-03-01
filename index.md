@@ -3,7 +3,7 @@
 ##Welcome to Julia's Chill Space
 Owned by Juliana Lyenne Gaite (Julia)
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.soompi.com%2Farticle%2F1502089wpp%2Ftxt-is-only-korean-artist-to-make-rolling-stones-the-50-best-albums-of-2021-list&psig=AOvVaw0rku-LIGDpsfXQfpt1Ezga&ust=1646231420455000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiB1YmQpfYCFQAAAAAdAAAAABAd)
+![alt text](https://6.viki.io/image/86add73e0e684d5a9db3fe6ceaf6e9ce/dummy.jpeg?s=900x600&e=t)
 
 ### Markdown
 
