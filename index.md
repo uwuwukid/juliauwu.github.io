@@ -10,7 +10,9 @@ TOMORROW X TOGETHER debuted in 2019 and they’re already racking up an impressi
 
 ### 1. THE DREAM CHAPTER: STAR 
 ![alt text](https://ibighit.com/txt/images/txt/discography/the_dream_chapter-star/album-cover.jpg)
+
 Consisting of five tracks
+
 [Blue Orangeade](https://open.spotify.com/track/3HHFOztnhfIWxjOr2s06sw?si=5d26fa0e3f4d4b51)
 [Crown](https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg?si=2b211df5b9594b81)
 
