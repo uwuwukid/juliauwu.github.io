@@ -9,7 +9,7 @@ Owned by Juliana Lyenne Gaite (Julia)
 TOMORROW X TOGETHER debuted in 2019 and they’re already racking up an impressive discography! Here’s a complete guide to all of TXT’s songs.
 
 ### 1. THE DREAM CHAPTER: STAR 
-![alt text](https://ibighit.com/txt/images/txt/discography/the_dream_chapter-star/album-cover.jpg) ![alt text](https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz?si=zMD4ZMFpSz2NPTFwKrs9IA)
+[![image-text](https://ibighit.com/txt/images/txt/discography/the_dream_chapter-star/album-cover.jpg)](https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz?si=zMD4ZMFpSz2NPTFwKrs9IA)
 
 Consisting of five tracks
 
@@ -26,6 +26,6 @@ Consisting of five tracks
 
 ### 2. THE DREAM CHAPTER: MAGIC
 
-![alt text](https://ibighit.com/txt/images/txt/discography/the_dream_chapter-magic/album-cover.jpg)
+[![image-text](https://ibighit.com/txt/images/txt/discography/the_dream_chapter-magic/album-cover.jpg)](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf?si=JNvTaoYxSie1nAevzJoTXA)
 
 
