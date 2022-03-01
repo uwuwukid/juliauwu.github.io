@@ -73,3 +73,49 @@ TOMORROW X TOGETHER debuted in 2019 and they’re already racking up an impressi
 
 [Way Home](https://open.spotify.com/track/195eCIcjTLsOJZ1nfNHUUJ?si=5d65f794fb5a4c6f)
 
+## 5. THE CHAOS CHAPTER:FREEZE
+
+[![image-text](https://ibighit.com/txt/images/txt/discography/the_chaos_chapter_freeze/RfMzwNE4j2MB8wrjKDMu923Z.jpg)](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9?si=DNVnIbcsQiC-k5kNC0n6-Q)
+
+[Anti-Romantic](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA?si=4516abf81c5e4e35)
+
+[**0X1=LOVESONG (I Know I Love You) feat. Seori*](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf?si=4dffb10c71b941c5) 
+
+[Magic](https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS?si=24671789a2b7461b)
+
+[Ice Cream](https://open.spotify.com/track/1DA36fEIoN6IKuDAI6oBbK?si=06723fd189094d45)
+
+[What if I had been that PUMA](https://open.spotify.com/track/6pU4nUCle2kZR2k3XV86YF?si=2664fde53ddd47ed)
+
+[No Rules](https://open.spotify.com/track/1lb61ya67YS87CtjYN0bil?si=be36a9cf5f5942e7)
+
+[Dear Sputnik](https://open.spotify.com/track/7ypFllJwlotXBJfLjsXhvo?si=3e5549970c54454a)
+
+[Frost](https://open.spotify.com/track/3Yp61j6axuQe4nxYWvbOXy?si=547172c970c24477)
+
+## 6. THE CHAOS CHAPTER:FIGHT OR ESCAPE
+
+[![image-text](https://ibighit.com/txt/images/txt/discography/the_chaos_chapter-fight_escape/cover_fight_escape.jpg)](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5?si=Gic_Kyv_Tn2tNz71VE6h7Q)
+
+[**LO$ER=LO♡ER**](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6?si=7cf7832eec0d4ba8)
+
+[Anti-Romantic](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA?si=4516abf81c5e4e35)
+
+[**0X1=LOVESONG (I Know I Love You) feat. Seori*](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf?si=4dffb10c71b941c5) 
+
+[Magic](https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS?si=24671789a2b7461b)
+
+[Ice Cream](https://open.spotify.com/track/1DA36fEIoN6IKuDAI6oBbK?si=06723fd189094d45)
+
+[What if I had been that PUMA](https://open.spotify.com/track/6pU4nUCle2kZR2k3XV86YF?si=2664fde53ddd47ed)
+
+[No Rules](https://open.spotify.com/track/1lb61ya67YS87CtjYN0bil?si=be36a9cf5f5942e7)
+
+[MOA Diary (Dubaddu Wari Wari)](https://open.spotify.com/track/3XoYQvTJK5KT0ynrq7mcCN?si=2de1f562b8714966)
+
+[Dear Sputnik](https://open.spotify.com/track/7ypFllJwlotXBJfLjsXhvo?si=3e5549970c54454a)
+
+[Frost](https://open.spotify.com/track/3Yp61j6axuQe4nxYWvbOXy?si=547172c970c24477)
+
+[0x1=LOVESONG (I Know I Love You) (Emocore Mix)](https://open.spotify.com/track/6XtPOQQmTO5hLdaD8ICyEU?si=035f236adf3e4a05)
+
