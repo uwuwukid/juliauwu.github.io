@@ -3,7 +3,7 @@
 ##Welcome to Julia's Chill Space
 Owned by Juliana Lyenne Gaite (Julia)
 
-![alt text](https://6.viki.io/image/86add73e0e684d5a9db3fe6ceaf6e9ce/dummy.jpeg?s=900x600&e=t)
+![alt text](https://dbkpop.com/wp-content/uploads/2021/05/txt_chaos_chapter_freeze_teaser_concept_Boy_all_group-2000x1326.jpg)
 
 ### Markdown
 
