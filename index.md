@@ -1,8 +1,9 @@
 ## uwuwu.github.io
 
+##Welcome to Julia's Chill Space
+Owned by Juliana Lyenne Gaite (Julia)
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.soompi.com%2Farticle%2F1502089wpp%2Ftxt-is-only-korean-artist-to-make-rolling-stones-the-50-best-albums-of-2021-list&psig=AOvVaw0rku-LIGDpsfXQfpt1Ezga&ust=1646231420455000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiB1YmQpfYCFQAAAAAdAAAAABAd)
 
 ### Markdown
 
